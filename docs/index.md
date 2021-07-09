@@ -5,10 +5,11 @@ A list of some useful links that were discussed during Data Science in Action 20
 
 * [Analytics vs. Statistics by Cassie Kozyrkov](https://www.youtube.com/watch?v=YsrPImZyisI)
 * [Data Science’s Most Misunderstood Hero by Cassie Kozyrkov](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
-* [A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks by Miguel Hernan et al](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/1268/20/hernan_chance19.pdf)
+* [A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks by Hernan et al](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/1268/20/hernan_chance19.pdf)
 * [Ten Simple Rules for Effective Statistical Practice by Kass et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 * [An Introduction to Statistical Learning by James et al](https://www.statlearning.com)
 * [R for Data Science by Wickham and Grolemund](https://r4ds.had.co.nz)
+* [The Hiring Gambit: In Search of the Twofer Data Scientist by Radu Craiu](https://hdsr.mitpress.mit.edu/pub/v9fdn7n7/release/4)
 
 ## Coding Resources
 
