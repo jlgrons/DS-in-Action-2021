@@ -1,5 +1,4 @@
-# Resources from Data Science in Action 2021
-A list of some useful links that were discussed this summer!  Enjoy!
+A list of some useful links that were discussed during Data Science in Action 2021!  Enjoy!
 
 
 ## General Data Science Resources
