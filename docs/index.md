@@ -7,7 +7,8 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Data Science’s Most Misunderstood Hero by Cassie Kozyrkov](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
 * [A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks by Miguel Hernan et al](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/1268/20/hernan_chance19.pdf)
 * [Ten Simple Rules for Effective Statistical Practice by Kass et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
-
+* [An Introduction to Statistical Learning by James et al](https://www.statlearning.com)
+* [R for Data Science by Wickham and Grolemund](https://r4ds.had.co.nz)
 
 ## Coding Resources
 
@@ -26,4 +27,8 @@ A list of some useful links that were discussed during Data Science in Action 20
 
 ## Other
 * [Sense of Style by Steven Pinker](https://www.amazon.ca/Sense-Style-Thinking-Persons-Writing/dp/0670025852)
+* [OpenAI](https://openai.com)
+* [Schlep Blindness by Paul Graham](http://paulgraham.com/schlep.html)
+* [dbt](https://www.getdbt.com/dbt-labs/about-us/)
+* [Toronto Data Workshop](https://rohanalexander.com/toronto_data_workshop.html)
 
