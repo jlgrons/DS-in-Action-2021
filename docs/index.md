@@ -15,7 +15,7 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Tidyverse style guide](https://style.tidyverse.org)
 * [Advanced R](https://adv-r.hadley.nz)
 * [testthat](https://testthat.r-lib.org)
-* [R for Data Science by Wickham and Grolemund](https://r4ds.had.co.nz)
+* [R for Data Science](https://r4ds.had.co.nz)
 
 
 ## Speaker Websites
