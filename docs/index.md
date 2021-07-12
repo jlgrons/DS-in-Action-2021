@@ -9,6 +9,7 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Ten Simple Rules for Effective Statistical Practice by Kass et al](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 * [An Introduction to Statistical Learning by James et al](https://www.statlearning.com)
 * [The Hiring Gambit: In Search of the Twofer Data Scientist by Radu Craiu](https://hdsr.mitpress.mit.edu/pub/v9fdn7n7/release/4)
+* [Deep Learning with Python by Francois Chollet](https://www.manning.com/books/deep-learning-with-python)
 
 ## Coding Resources
 
@@ -16,10 +17,12 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Advanced R](https://adv-r.hadley.nz)
 * [testthat](https://testthat.r-lib.org)
 * [R for Data Science](https://r4ds.had.co.nz)
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/)
 
 ## Data Sets
 
 * [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
+* [kaggle](https://www.kaggle.com)
 
 ## Speaker Websites
 
