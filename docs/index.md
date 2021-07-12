@@ -17,6 +17,9 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [testthat](https://testthat.r-lib.org)
 * [R for Data Science](https://r4ds.had.co.nz)
 
+## Data Sets
+
+* [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
 
 ## Speaker Websites
 
