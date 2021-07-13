@@ -30,6 +30,9 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Rohan Alexander](https://rohanalexander.com)
 * [Leo Celi](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/)
 * [Zachary McCaw](https://www.linkedin.com/in/zachary-mccaw-16638b39)
+* [Heather Mattie](https://www.hsph.harvard.edu/heather-mattie/)
+* [Vianey Leos Barajas](https://www.statistics.utoronto.ca/people/directories/all-faculty/vianey-leos-barajas)
+* [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/)
 
 
 ## Other
@@ -38,4 +41,6 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Schlep Blindness by Paul Graham](http://paulgraham.com/schlep.html)
 * [dbt](https://www.getdbt.com/dbt-labs/about-us/)
 * [Toronto Data Workshop](https://rohanalexander.com/toronto_data_workshop.html)
+* [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
+* [AlphaGo Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
