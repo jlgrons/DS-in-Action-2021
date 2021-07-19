@@ -33,6 +33,9 @@ A list of some useful links that were discussed during Data Science in Action 20
 * [Heather Mattie](https://www.hsph.harvard.edu/heather-mattie/)
 * [Vianey Leos Barajas](https://www.statistics.utoronto.ca/people/directories/all-faculty/vianey-leos-barajas)
 * [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/)
+* [Paul Varghese](https://www.linkedin.com/in/paulgeorgevarghese)
+* [Hui Wang](https://www.crunchbase.com/person/hui-wang-2)
+* [Ellen Stephenson](https://ellenstephenson.com)
 
 
 ## Other
